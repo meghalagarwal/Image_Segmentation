@@ -1,0 +1,4 @@
+joblib
+dlib
+opencv-python
+face_recognition
