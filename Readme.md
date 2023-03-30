@@ -1,0 +1,1 @@
+This Project will help to segregate images from bulk of images based on the individual images to identify.
